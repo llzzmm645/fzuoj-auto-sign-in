@@ -1,4 +1,4 @@
-# NOJ添加了验证码，如果对fznoj-auto-sign-in感兴趣，可以联系我或[jsq](https://github.com)
+# NOJ添加了验证码，如果对fznoj-auto-sign-in感兴趣，可以联系我或[jsq](https://github.com/Ji-Siqi)
 ## uoj自动签到
 
 该工具是由llzzmm645小蒟蒻写的FZOIerのuoj的自动签到神器，使用方法如下
